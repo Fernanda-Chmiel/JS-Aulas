@@ -1,0 +1,93 @@
+.container {
+    width: 384px;
+    border-radius: 10px;
+    padding: 48px 32px 32px;
+    border: 1px solid #e2e8f0;
+  }
+  
+  .darkContainer {
+    background-color: #0f172a;
+    border: none;
+  }
+  
+  #description {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 6%;
+    padding-bottom: 8px;
+  }
+  
+  .darkContainer p {
+    color: #996dff;
+  }
+  
+  .details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .details h1 {
+    font-weight: 700;
+    font-size: 32px;
+  }
+  
+  .darkContainer .details h1 {
+    color: #fff;
+  }
+  
+  .darkContainer .details p,
+  .darkContainer .details strong,
+  .darkContainer .details span {
+    color: #f8fafc;
+  }
+  
+  .darkContainer p {
+    font-size: 18px;
+    font-weight: 400;
+  }
+  
+  .darkContainer strong {
+    font-size: 24px;
+    font-weight: 600;
+  }
+  
+  .darkContainer span {
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .maisVantajoso {
+    width: 133px;
+    height: 34px;
+    gap: 10px;
+    border-radius: 6px;
+    padding: 8px 2px;
+    background-color: #fba94c;
+    position: absolute;
+    top: 30px;
+    text-align: center;
+    transform: translate(+69%, +5%);
+  }
+
+  .cor{
+    color: #996dff;
+  }
+
+  .p{
+    font-size: 18px;
+    font-weight: 400;
+  }
+
+  .strong {
+    font-size: 24px;
+    font-weight: 600;
+  }
+
+  span {
+      font-size: 18px;
+      font-weight: 600;
+  }
+
+ 
