@@ -1,0 +1,28 @@
+.add-task {
+  width: 16.6875rem;
+  height: 3.25rem;
+  border: 2px solid var(--gray-300);
+  border-radius: 8px;
+}
+
+.add-task::placeholder {
+  padding-left: 1.125rem;
+}
+
+.button-add {
+  width: 3.25rem;
+  height: 3.25rem;
+  background: var(--purple-dark);
+  border: none;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.align {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transform: translateY(-50%);
+}

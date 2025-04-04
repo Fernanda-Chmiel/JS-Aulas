@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --gray-300: #e0dce4;
+  --purple-dark: #6f3cc3;
+}
