@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+
+  --Font: "Inter", sans-serif;
+  --input: 400 16px/140% var(--Font); /* input */
+  --subtitle: 600 14px/120% var(--Font); /* tarefas criadas e concluídas */
+  --tag: 700 12px/120% var(--Font); /* numeros */
+  --text-sm: 400 12px/140% var(--Font); /* tarefas */
+
+  --gray-300: #e0dce4;
+  --gray-500: #6B6572;
+  --gray-600: #262428;
+  
+  --purple-dark: #6f3cc3;
+  --purple-base: #9359F3;
+
+  --green-base:#479C6E;
+}

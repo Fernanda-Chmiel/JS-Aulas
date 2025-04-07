@@ -1,0 +1,38 @@
+.task-box{
+    display: flex;
+    width: 20.4375rem;
+    height: 4.6875rem;
+    background-color: var(--gray-300);
+    border-radius: 8px;
+    margin-bottom: 0.75rem;
+    align-items: start;
+    justify-content: space-between;
+    color: var(--gray-600);
+    padding: 12px;
+}
+
+.rounded-checkbox {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    border: 1px solid var(--purple-base);
+    appearance: none;
+    -webkit-appearance: none;
+    outline: none;
+    cursor: pointer;
+    position: relative;
+  }
+  .rounded-checkbox:checked {
+    appearance: auto;
+    clip-path: circle(50% at 50% 50%);
+  }
+
+  .button{
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+  }
+
+  .description{
+    font: var( --text-sm);
+  }

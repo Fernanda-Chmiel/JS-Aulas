@@ -1,0 +1,11 @@
+{
+    "tarefas": [
+      { "descricao": "Fazer todos os temas" },
+      { "descricao": "Varrer o chão" },
+      { "descricao": "Finalizar o cabelo" },
+      { "descricao": "Ler um livro" },
+      { "descricao": "Limpar o pátio" },
+      { "descricao": "Dobrar as roupas"},
+      { "descricao": "Arrumar o que está fora do lugar"}
+    ]
+  }
